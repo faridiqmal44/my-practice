@@ -1,1 +1,5 @@
 Sebuah catatan khusus untuk mengingatkan saya di dunia web development ini
+
+List resolusi untuk 2021 :
+- Membuat lebih banyak project
+- Fokus di salah satu bahasa pemrograman
