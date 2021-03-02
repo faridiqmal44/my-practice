@@ -1,0 +1,6 @@
+Rencana program farid
+- Membuat web portfolio
+- Membuat website sms gateway
+  meneruskan program skripsi
+- Membuat website hallonona
+  meneruskan project hallonona
