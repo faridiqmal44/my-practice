@@ -1,0 +1,4 @@
+Rencana program farid
+- Membuat web portfolio
+- Membuat website sms gateway
+- Membuat website hallonona
