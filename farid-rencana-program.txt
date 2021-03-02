@@ -4,3 +4,4 @@ Rencana program farid
   meneruskan program skripsi
 - Membuat website hallonona
   meneruskan project hallonona
+- project shop
