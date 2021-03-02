@@ -2,8 +2,9 @@ Rencana program farid
 - Membuat web portfolio
 - Membuat website sms gateway
   meneruskan program skripsi
-  menggunakan laravel
+  menggunakan frawework symfoni
 - Membuat website hallonona
   menggunakan wordpress
   meneruskan project hallonona
+  menggunakan native php
 - project shop
