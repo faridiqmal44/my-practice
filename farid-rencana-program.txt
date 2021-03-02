@@ -4,6 +4,7 @@ Rencana program farid
   meneruskan program skripsi
   menggunakan frawework symfoni
 - Membuat website hallonona
+  menggunakan wordpress
   meneruskan project hallonona
   menggunakan native php
 - project shop
